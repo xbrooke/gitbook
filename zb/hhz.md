@@ -1,6 +1,8 @@
 # 🏠 好好介绍
 
-:::tip 提示 好好住是以设计为主的内容平台，主要流量版块分为整屋案例、装修设计灵感、避坑干货、户型风格榜单等 :::
+{% hint style="info" %}
+好好住是以设计为主的内容平台，主要流量版块分为整屋案例、装修设计灵感、避坑干货、户型风格榜
+{% endhint %}
 
 ## 整屋案例
 
@@ -20,11 +22,33 @@
 
 **好好住精选案例图解**
 
-![](https://s2.loli.net/2023/03/06/Rvw75mG9taeC2iY.jpg) ![](https://s2.loli.net/2023/03/06/oDyYIhLEtMQAnbC.jpg) ![](https://s2.loli.net/2023/03/06/2eMXVWG8AKLSCid.jpg) ![](https://s2.loli.net/2023/03/06/Nv29ygdUQbRlZA7.jpg) ![](https://s2.loli.net/2023/03/06/qQ3pEmlAebW9ILO.jpg) ![](https://s2.loli.net/2023/03/06/ytkYzueRaJUEGDO.jpg) ![](https://s2.loli.net/2023/03/06/imHudSVOl7vzqsY.jpg) ![](https://s2.loli.net/2023/03/06/Bv1MKNfGbieUEag.jpg) ![](https://s2.loli.net/2023/03/06/SK2Q6sXtN5fqAdk.jpg)
+&#x20;      &#x20;
+
+<figure><img src="https://s2.loli.net/2023/03/06/SK2Q6sXtN5fqAdk.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/Bv1MKNfGbieUEag.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/imHudSVOl7vzqsY.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/ytkYzueRaJUEGDO.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/qQ3pEmlAebW9ILO.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/Nv29ygdUQbRlZA7.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/2eMXVWG8AKLSCid.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/oDyYIhLEtMQAnbC.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://s2.loli.net/2023/03/06/Rvw75mG9taeC2iY.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 推荐指数
 
-:::tip 流量曝光密码 完成每周任务，可以提高周推荐指数，从而带来流量曝光 :::
+{% hint style="info" %}
+流量曝光密码 完成每周任务，可以提高周推荐指数，从而带来流量曝光
+{% endhint %}
+
+##
 
 ## 固定周任务
 
@@ -43,10 +67,12 @@
 
 ## 参与话题
 
-:::tip **每周推荐指数加分项**
+{% hint style="info" %}
+**每周推荐指数加分项**
 
 每周平台会根据热搜情况，颁布不同的话题，我们根据情况完成相对较的任务获得推荐指数，每周五早上8点更新
 
-![](https://s2.loli.net/2023/03/06/GQnp1Xku5vLcxNq.png)
 
-:::
+{% endhint %}
+
+<figure><img src="https://s2.loli.net/2023/03/06/GQnp1Xku5vLcxNq.png" alt=""><figcaption></figcaption></figure>
