@@ -9,3 +9,11 @@ coverY: 0
 {% hint style="info" %}
 **徐大兵提示：**以下内容是徐大兵与袁滚滚一起策划实施的
 {% endhint %}
+
+<details>
+
+<summary>这个测试</summary>
+
+测试1
+
+</details>
